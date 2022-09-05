@@ -51,7 +51,7 @@ for class Normal:
 for class Tuberculosis:
  validation precision: 0.989796, validation recall: 0.970000 , validation F1: 0.979798
  ```
- Confusion matrix:
+ Confusion matrix: <br />
  <img src=https://user-images.githubusercontent.com/56191102/188505966-9353a90b-5aa2-4d24-ab27-2f1f2627b193.png alt="confusion matrix for validation data" style="height: 350px; "/>
  <img src=https://user-images.githubusercontent.com/56191102/188507451-877db3d8-25eb-4803-a7b9-ff716dbc597c.png alt="accuracy diagram" style="height: 350px; "/>
  <img src=https://user-images.githubusercontent.com/56191102/188507510-76010fdd-13ce-4173-af69-be1706a963cc.png alt="loss diagram" style="height: 350px; "/>
